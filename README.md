@@ -1,5 +1,5 @@
-<em>Currency Converte </em>
 
+<h1 align="center"> Currency Converte </h1>
 Este proyecto es un conversor de moneda desarrollado en Java, que permite a los usuarios convertir monedas entre diferentes países utilizando la API de ExchangeRate-API y la API de RestCountries.
 
 Descripción del Proyecto
