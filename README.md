@@ -56,10 +56,66 @@ Este programa permite convertir entre diferentes monedas utilizando los tipos de
 8. Historial de conversiones
 9. Salir
 
+Opción: 1
+
+
 ## Ejemplo de uso
 
-1. Seleccionar una opción de conversión:
+1. Ingrese la cantidad a convertir
    
+```sh
+ 100
+```
+
+Resultado:
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 100.0
+Tasa de conversion = 0.1287
+Resultado  = 12.87
+
+## Ejemplo de uso
+Opción: 8
+
+ Historial de conversiones
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 78.0
+Tasa de conversion = 0.1287
+Resultado  = 10.0386
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 45.0
+Tasa de conversion = 0.1287
+Resultado  = 5.7915
+-------------------------------------
+Moneda de origen =  MXN
+Moneda de destino = USD
+Cantidad = 78.0
+Tasa de conversion = 0.05893
+Resultado  = 4.59654
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 100.0
+Tasa de conversion = 0.1287
+Resultado  = 12.87
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 100.0
+Tasa de conversion = 0.1287
+Resultado  = 12.87
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 100.0
+Tasa de conversion = 0.1287
+Resultado  = 12.87
+
 
 
 # Registro de Versiones
