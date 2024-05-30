@@ -68,16 +68,18 @@ Opción: 1
 ```
 
 Resultado:
+```sh
 -------------------------------------
 Moneda de origen =  GTQ
 Moneda de destino = USD
 Cantidad = 100.0
 Tasa de conversion = 0.1287
 Resultado  = 12.87
+```
 
 ## Ejemplo de uso
 Opción: 8
-
+```sh
  Historial de conversiones
 -------------------------------------
 Moneda de origen =  GTQ
@@ -115,7 +117,7 @@ Moneda de destino = USD
 Cantidad = 100.0
 Tasa de conversion = 0.1287
 Resultado  = 12.87
-
+```
 
 
 # Registro de Versiones
