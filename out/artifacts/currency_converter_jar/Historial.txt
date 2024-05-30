@@ -1,0 +1,24 @@
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 78.0
+Tasa de conversion = 0.1287
+Resultado  = 10.0386
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 45.0
+Tasa de conversion = 0.1287
+Resultado  = 5.7915
+-------------------------------------
+Moneda de origen =  MXN
+Moneda de destino = USD
+Cantidad = 78.0
+Tasa de conversion = 0.05893
+Resultado  = 4.59654
+-------------------------------------
+Moneda de origen =  GTQ
+Moneda de destino = USD
+Cantidad = 100.0
+Tasa de conversion = 0.1287
+Resultado  = 12.87
